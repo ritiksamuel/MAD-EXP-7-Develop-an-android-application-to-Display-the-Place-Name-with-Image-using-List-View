@@ -2,7 +2,7 @@
 
 ## AIM:
 
-To create and develop the application to display the place name with image using list view in android studio
+To create and develop the application to display the place name with image using list view in android studio.
 
 ## EQUIPMENTS REQUIRED:
 
